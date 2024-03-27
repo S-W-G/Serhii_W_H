@@ -1,12 +1,12 @@
 Serhii Hlukhenkyi                          
 
  Date of birth: **.**.1996
- Location: *****, Vinnytsia rgn.,Ukraine
+ Location: Lityn, Vinnytsia rgn.,Ukraine
  Phone number: +38063*******
  E-mail: serhii.w.g@gmail.com
 
 SUMMARY:
-A self-motivated person, with more than three year experience in logistics, communicative team member, and confident PC user. Looking for a chance to become a highly-qualified IT specialist. Have experience in: manual testing basics (books, courses); HTML/CSS (books, courses), JavaScript (reading latest books, taking multiple courses). Familiar with such platforms and programs as: Jira, Mantis, Testlink, Git-Hub, VSCode. 
+A self-motivated person, with more than three year experience in logistics, communicative team member, and confident PC user. Actively studying, developing new skills and looking for a chance to become a highly-qualified IT specialist. Have experience in: manual testing basics (books, courses); HTML/CSS (books, courses), JavaScript (reading latest books, taking multiple courses). Familiar with such platforms and programs as: Jira, Mantis, Testlink, Git-Hub, VSCode. 
 
 SKILLS: 
 1C - Enterprise;
